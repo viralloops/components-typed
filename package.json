@@ -1,6 +1,6 @@
 {
   "name": "grapesjs-typed",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "description": "GrapesJS Typed",
   "main": "dist/index.js",
   "files": [
